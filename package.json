@@ -2,6 +2,7 @@
   "name": "checked",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mdyajul.github.io/ga-gitstart",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
